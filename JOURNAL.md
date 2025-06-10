@@ -10,3 +10,9 @@ June 9th, 2025:
 I made the basic design of the keyboard on www.keyboard-layout-editor.com
 ![image](https://github.com/user-attachments/assets/1b3754f0-30b6-4d07-bad2-159604d60ea1)
 ---
+
+--- 
+June 10th, 2025:
+Today made the matrix of the keyboard and the firmware, some part is still left, here is a screenshot of the code
+![image](https://github.com/user-attachments/assets/54adafcf-7e7b-4135-8468-d4d5582ec545)
+---
