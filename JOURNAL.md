@@ -16,3 +16,10 @@ June 10th, 2025:
 Today made the matrix of the keyboard and the firmware, some part is still left, here is a screenshot of the code
 ![image](https://github.com/user-attachments/assets/54adafcf-7e7b-4135-8468-d4d5582ec545)
 ---
+
+---
+June 16th, 2025:
+Today I made the basic schematic of the keyboard in KiCAD
+![image](https://github.com/user-attachments/assets/67d811d6-6f8e-484c-bef5-5e6e3c3c19eb)
+I will add the rest of the components later
+---
