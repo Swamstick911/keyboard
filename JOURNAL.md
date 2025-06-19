@@ -23,3 +23,9 @@ Today I made the basic schematic of the keyboard in KiCAD
 ![image](https://github.com/user-attachments/assets/67d811d6-6f8e-484c-bef5-5e6e3c3c19eb)
 I will add the rest of the components later
 ---
+
+---
+June 18th, 2025:
+Today I completed the schematic and will work on the PCB tomorrow
+![image](https://github.com/user-attachments/assets/31865d92-e3ba-4ca7-952c-75250e7c0289)
+---
