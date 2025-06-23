@@ -29,3 +29,9 @@ June 18th, 2025:
 Today I completed the schematic and will work on the PCB tomorrow
 ![image](https://github.com/user-attachments/assets/31865d92-e3ba-4ca7-952c-75250e7c0289)
 ---
+
+---
+June 23rd, 2025:
+Solved the issue of footprints of keys not showing, this is the pcb atm, will place it and work it out soon!
+![image](https://github.com/user-attachments/assets/3cbac8d0-2d34-4d9b-80ff-13b536acf8a9)
+---
