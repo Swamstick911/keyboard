@@ -35,3 +35,9 @@ June 23rd, 2025:
 Solved the issue of footprints of keys not showing, this is the pcb atm, will place it and work it out soon!
 ![image](https://github.com/user-attachments/assets/3cbac8d0-2d34-4d9b-80ff-13b536acf8a9)
 ---
+
+---
+June 25th, 2025:
+Almost completed the PCB today, only routing is left 
+![image](https://github.com/user-attachments/assets/bdb306f6-2213-416f-8235-0da22054b410)
+---
