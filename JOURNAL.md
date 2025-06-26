@@ -26,6 +26,6 @@ Today I completed the schematic and will work on the PCB tomorrow
 Solved the issue of footprints of keys not showing, this is the pcb atm, will place it and work it out soon!
 ![PCB](https://github.com/user-attachments/assets/3cbac8d0-2d34-4d9b-80ff-13b536acf8a9)
 
-##June 25th, 2025:
+## June 25th, 2025:
 Almost completed the PCB today, only routing is left 
 ![PCB2](https://github.com/user-attachments/assets/bdb306f6-2213-416f-8235-0da22054b410)
