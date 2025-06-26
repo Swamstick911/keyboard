@@ -29,3 +29,7 @@ Solved the issue of footprints of keys not showing, this is the pcb atm, will pl
 ## June 25th, 2025:
 PCB almost done only the routing part is left
 ![PCB2](https://github.com/user-attachments/assets/bdb306f6-2213-416f-8235-0da22054b410)
+
+## June 26th, 2025:
+Organised the board a bit and did the routing but it was wrong, so I am redoing it
+![PCB3](https://github.com/user-attachments/assets/474de6f6-f19a-4ca0-a356-1c1a3baa9599)
