@@ -33,3 +33,8 @@ PCB almost done only the routing part is left
 ## June 26th, 2025:
 Organised the board a bit and did the routing but it was wrong, so I am redoing it
 ![PCB3](https://github.com/user-attachments/assets/474de6f6-f19a-4ca0-a356-1c1a3baa9599)
+
+## June 28th, 2025:
+Asked my friends to look at my PCB, they told me the issues so now I am fixing them, I am like halfway there. I reorganised the keys and the diodes as the keys need to be closer, so here's the latest pic I have 
+
+![PCB4](https://github.com/user-attachments/assets/91d7a30c-fe6a-4bd0-ad54-a27b6236b64e)
