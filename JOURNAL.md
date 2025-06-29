@@ -38,3 +38,10 @@ Organised the board a bit and did the routing but it was wrong, so I am redoing 
 Asked my friends to look at my PCB, they told me the issues so now I am fixing them, I am like halfway there. I reorganised the keys and the diodes as the keys need to be closer, so here's the latest pic I have 
 
 ![PCB4](https://github.com/user-attachments/assets/91d7a30c-fe6a-4bd0-ad54-a27b6236b64e)
+
+## June 29th, 2025:
+Finally completed the PCB today without any errors!! Thanks to everyone who helped
+
+![PCB5](https://github.com/user-attachments/assets/dfef4ed4-b406-42a6-a987-7603a212b88e)
+![3Dview_1](https://github.com/user-attachments/assets/6db455cb-e795-4820-b069-767ab63afaa2)
+![3Dview_2](https://github.com/user-attachments/assets/0d98f0c8-72eb-4f6e-93c4-6ee139e7e1b7)
