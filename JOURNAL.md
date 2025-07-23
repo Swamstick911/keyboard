@@ -45,3 +45,8 @@ Finally completed the PCB today without any errors!! Thanks to everyone who help
 ![PCB5](https://github.com/user-attachments/assets/dfef4ed4-b406-42a6-a987-7603a212b88e)
 ![3Dview_1](https://github.com/user-attachments/assets/6db455cb-e795-4820-b069-767ab63afaa2)
 ![3Dview_2](https://github.com/user-attachments/assets/0d98f0c8-72eb-4f6e-93c4-6ee139e7e1b7)
+
+## July 23rd, 2025:
+Yes I know I am journaling after a long time that is because I was busy between these days today I tried to complete the case and this is how it turned out. Though I forgot to add space for the display and encoder. I followed the hackpad case tutorial
+<img width="947" height="396" alt="image" src="https://github.com/user-attachments/assets/ac3a9adb-1646-407c-953b-fb951184ea66" />
+<img width="1042" height="438" alt="image" src="https://github.com/user-attachments/assets/1a960cd0-3c01-429d-9e8e-f57db33b1580" />
