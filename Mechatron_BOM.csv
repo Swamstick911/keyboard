@@ -4,6 +4,7 @@ D1-D80,80,1N4148 Diode,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,https://assets
 D91-D98,8,WS2812B RGB LED,LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf,https://www.adafruit.com/product/1655
 J1,1,Header 1x4 (I2C OLED),Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,https://www.amphenol.com/products/20021121-00010T4LF,https://www.digikey.in/en/products/detail/amphenol-fci/20021121-00010T4LF/10014539
 SW1-SW87,87,MX Switch 3-pin,MX_SW:SW_MX_Kailh_HS,https://cdn.sparkfun.com/datasheets/Components/Switches/MX%20Series.pdf,https://www.tme.eu/en/details/mx1a-11nw/switches/mechanical-keyboard/mx/
-OLED1,1,0.96" I2C OLED Display,OLED_Display:SSD1306_I2C,https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf,https://www.adafruit.com/product/326
+OLED1,1,0.96 I2C OLED Display,OLED_Display:SSD1306_I2C,https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf,https://www.adafruit.com/product/326
 ENC1,1,Rotary Encoder EC11 w/ Push,Encoder:EC11_PushButton,https://cdn.sparkfun.com/datasheets/Components/Encoders/EC11.pdf,https://www.adafruit.com/product/377
 U1,1,I2C Expander (PCF8574),SOP:SO-16_3.9mm,https://www.ti.com/lit/ds/symlink/pcf8574.pdf,https://www.digikey.in/en/products/detail/nxp-usa-inc/PCF8574T-3-518/735505
+
