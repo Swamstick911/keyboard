@@ -4,7 +4,7 @@ author: Swastik Bajpai
 description: the project is a mechanical DIY keyboard with extra features (always a dream of making one)
 created_at: 2025-06-08
 ---
-
+## Total Time - 16-17 hours
 
 ## June 9th, 2025: (1 hour)
 I made the basic design of the keyboard on www.keyboard-layout-editor.com
@@ -50,3 +50,9 @@ Finally completed the PCB today without any errors!! Thanks to everyone who help
 Yes I know I am journaling after a long time that is because I was busy between these days today I tried to complete the case and this is how it turned out. Though I forgot to add space for the display and encoder. I followed the hackpad case tutorial
 <img width="947" height="396" alt="image" src="https://github.com/user-attachments/assets/ac3a9adb-1646-407c-953b-fb951184ea66" />
 <img width="1042" height="438" alt="image" src="https://github.com/user-attachments/assets/1a960cd0-3c01-429d-9e8e-f57db33b1580" />
+
+## August 15th, 2025 (1 hour)
+Added some complexity to the case as per the review, added text which said the name of the project
+
+<img width="861" height="348" alt="image" src="https://github.com/user-attachments/assets/6195c7ae-19b1-4e5e-ac61-60772ea22076" />
+
