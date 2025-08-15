@@ -45,4 +45,7 @@ The firmware will be KMK which will be written in micropython, as I am using a R
 
 <img width="989" height="687" alt="image" src="https://github.com/user-attachments/assets/fc909aff-5727-4464-85d4-58fc3c4fbb3d" />
 
+<img width="844" height="359" alt="image" src="https://github.com/user-attachments/assets/7068835a-7081-414e-be55-87a740538b16" />
+
+
 ---
