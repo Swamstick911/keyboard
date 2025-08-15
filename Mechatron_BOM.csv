@@ -1,11 +1,16 @@
-Reference,Qty,Value,Footprint,Datasheet,Buy_Link
-A1,1,Raspberry Pi Pico,Module:RaspberryPi_Pico_Common_Unspecified,https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf,https://www.raspberrypi.com/products/raspberry-pi-pico/
-D1-D80,80,1N4148 Diode,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf,https://www.digikey.in/en/products/detail/nexperia-usa-inc/1N4148/458366
-D91-D98,8,WS2812B RGB LED,LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf,https://www.adafruit.com/product/1655
-J1,1,Header 1x4 (I2C OLED),Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,https://www.amphenol.com/products/20021121-00010T4LF,https://www.digikey.in/en/products/detail/amphenol-fci/20021121-00010T4LF/10014539
-SW1-SW87,80,MX Switch 3-pin,MX_SW:SW_MX_Kailh_HS,https://cdn.sparkfun.com/datasheets/Components/Switches/MX%20Series.pdf,https://www.tme.eu/en/details/mx1a-11nw/switches/mechanical-keyboard/mx/
-OLED1,1,0.96 I2C OLED Display,OLED_Display:SSD1306_I2C,https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf,https://www.adafruit.com/product/326
-ENC1,1,Rotary Encoder EC11 w/ Push,Encoder:EC11_PushButton,https://cdn.sparkfun.com/datasheets/Components/Encoders/EC11.pdf,https://www.adafruit.com/product/377
-U1,1,I2C Expander (PCF8574),SOP:SO-16_3.9mm,https://www.ti.com/lit/ds/symlink/pcf8574.pdf,https://www.digikey.in/en/products/detail/nxp-usa-inc/PCF8574T-3-518/735505
-
-
+Name,Quantity,Cost,Link
+Gateron EF Grayish,80,$18.19,https://neomacro.in/products/gateron-ef-grayish
+Durock Smokey Screw-In Stabilizers V2 (4+1 w/ 6.25u spacebar),1,$18.58,https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/
+Cherry Profile PBT Keycaps,1,$15.15,https://stackskb.com/store/veekos-gradient-keycaps-cherry-profile-135-keys/
+Diode 1N4148 Through-Hole,100,$1.17,https://www.amazon.in/dp/B084ZP5BJ3?ref_=cm_sw_r_cp_ud_dp_YPW3WFYTE31QA18570D1&_encoding=UTF8&psc=1
+WS2812B RGB LED,8,$2.76,https://www.adafruit.com/product/1655
+Header 1x4 (I2C OLED),1,$0.10,https://www.digikey.in/en/products/detail/amphenol-fci/20021121-00010T4LF/10014539
+OLED,1,$1.92,https://www.amazon.in/Robodo-Electronics-D1286464-Display-Arduino/dp/B07B92SFJV?crid=22PDBSONP7I84&dib=eyJ2IjoiMSJ9._fc6m2CiLg2C4zbCzTKu5yG8fXhyDDnEzcq-tkJ5ONFzDwy16N8zf2l60QPbqxWQhk4mFtEJ5IH2EA0xsyK-mwiNFWFD_w9vg1a7mg-NjWp_56AFy1OO9-iygwyQk9sB69dxvDaZvVmbT36XL2-eg49dpzfKXk0bx13VoBi1Hhb1vG3RQP0P7Z7VCThHe2NjnwkjVfkNtYHWYOWzaG1JvLpacVPaWzxN3Uhdzq5UvlM.GtWvXxquAYLzol9vmMcDAWZhkUVFSIQtM6K3fH87alc&dib_tag=se&keywords=0.91%2Binch%2Boled%2Bdisplay%2Bi2c&qid=1755270026&sprefix=0.91%2Binch%2Boled%2Bdisplay%2Bi2%2Caps%2C384&sr=8-11&th=1
+Rotary Encoder EC11 w/ Push,1,$2.00,https://www.adafruit.com/product/377
+I2C Expander (PCF8574),1,$0.83,https://www.digikey.in/en/products/detail/nxp-usa-inc/PCF8574T-3-518/735505
+M3 x 20mm Bolt,15,$1.73,https://www.amazon.in/dp/B0CX99K2RL?ref_=cm_sw_r_cp_ud_dp_WPFQM677EMXT3KKH904P&_encoding=UTF8
+M3 Nuts,8,$1.16,https://www.amazon.in/dp/B09J92WY5Q?ref_=cm_sw_r_cp_ud_dp_7TEKARN0PX76YMEZR3TW&_encoding=UTF8&psc=1
+M3 x 5mm Heatset Insert,25,$2.09,https://www.amazon.in/dp/B0CX1BS7DJ?ref_=cm_sw_r_cp_ud_dp_13RMQGNJ1CXSNS92NXVW
+PCB - (Black Color),5,$69.99,
+Raspberry Pi Pico,1,$5.19,https://www.amazon.in/Raspberry-Pi-Headers-Soldered-Micro/dp/B08WPNM7JB/ref=sr_1_2?sr=8-2
+Case - top, mid, bottom,1,, 
