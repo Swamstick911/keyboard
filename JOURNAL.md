@@ -56,3 +56,8 @@ Added some complexity to the case as per the review, added text which said the n
 
 <img width="861" height="348" alt="image" src="https://github.com/user-attachments/assets/6195c7ae-19b1-4e5e-ac61-60772ea22076" />
 
+## September 27th, 2025 (30 minutes)
+Changed the position of the header a bit as it was not suitable with the display I will use
+
+<img width="117" height="140" alt="image" src="https://github.com/user-attachments/assets/8821759c-1811-4b9f-83f6-36f5003e9b45" />
+
